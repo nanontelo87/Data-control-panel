@@ -16,3 +16,7 @@ The control panel uses laboratory data stored in a database. Summary cards updat
 ## Contributions
 
 Contributions are welcome if you have ideas to improve this dashboard!
+
+## Advice
+
+The data is not real, this is only demostrative.
