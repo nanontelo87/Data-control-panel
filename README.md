@@ -1,4 +1,4 @@
-# data-control-panel
+# DATA CONTROL PANEL
 
 This repository contains code for a lab results dashboard. The dashboard provides an easy-to-use interface for viewing sample analysis results in a laboratory. It allows quick visualization of data, including the distribution of samples and assays over time, as well as detailed information on assay and sample values.
 
